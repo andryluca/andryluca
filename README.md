@@ -5,7 +5,7 @@
 - 📚 I am studying to become a web developer
 - 🌱 I am currently learning Html, Css, Javascript
 - 💬 Ask me for information.
-- 📫 How to reach me: [Email](mailto: andry.luca@libero.it), [Telephone number](+ 39 3923515678).
+- 📫 How to reach me: [Email](mailto: andry.luca@libero.it) [Telephone number](+393923515678).
 - 🤔 I am looking for help to increase my knowledge
 
 - Here are some works I have done:<br>
