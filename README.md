@@ -8,7 +8,7 @@
 - 📫 How to reach me: [Email] (mailto: andry.luca@libero.it), [Telephone number] (+ 39 3923515678).
 - 🤔 I am looking for help to increase my knowledge
 
-- Here are some works I have done:
+- Here are some works I have done:<br>
 #counter js: https://andryluca.github.io/Andrea-Rosario-Luca---counter-js/
 <br>
 #my personal website: https://andryluca.github.io/Andrea-Rosario-Luca---Html-e-Css/
