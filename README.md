@@ -7,7 +7,7 @@ Piacere sono Andrea Rosario Lucà,
 sto studiando per diventare uno sviluppatore web
 - 🌱 Attualmente sto imparando Html, Css, Javascript
 - 💬 Chiedimi informazioni.
-- 📫 Come raggiungermi: email: andry.luca@libero.it, numero: +39 3923515678.
+- 📫 Come raggiungermi: [Gmail](mailto:andry.luca@libero.it),numero: +39 3923515678.
 - 🤔 Cerco aiuto per aumentare le mie conoscenze
 
 
