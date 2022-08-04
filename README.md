@@ -1,6 +1,8 @@
+###Ciao 👋
+
 ### counter js: https://andryluca.github.io/Andrea-Rosario-Luca---counter-js/
 my personal site: https://andryluca.github.io/Andrea-Rosario-Luca---Html-e-Css/
-###Ciao 👋
+
 Piacere sono Andrea Rosario Lucà,
 sto studiando per diventare uno sviluppatore web
 - 🌱 Attualmente sto imparando Html, Css, Javascript
