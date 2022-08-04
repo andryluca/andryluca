@@ -9,7 +9,7 @@
 - 🤔 I am looking for help to increase my knowledge
 
 - Here are some works I have done:<br>
-#counter js: https://andryluca.github.io/Andrea-Rosario-Luca---counter-js/
+#counter js: https://andryluca.github.io/Andrea-Rosario-Luca---counter-js/         
 #my personal website: https://andryluca.github.io/Andrea-Rosario-Luca---Html-e-Css/
 
 <!--
